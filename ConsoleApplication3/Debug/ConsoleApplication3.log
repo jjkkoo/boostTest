@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\eshiyho\documents\visual studio 2017\projects\boosttest\consoleapplication3\source.cpp(19): warning C4018: '>': signed/unsigned mismatch
+c:\users\eshiyho\documents\visual studio 2017\projects\boosttest\consoleapplication3\source.cpp(23): warning C4018: '<=': signed/unsigned mismatch
+c:\users\eshiyho\documents\visual studio 2017\projects\boosttest\consoleapplication3\source.cpp(28): warning C4553: '==': operator has no effect; did you intend '='?
+  ConsoleApplication3.vcxproj -> C:\Users\eshiyho\documents\visual studio 2017\Projects\boostTest\Debug\stl3_producer_consumer_block_queue.exe
+  ConsoleApplication3.vcxproj -> C:\Users\eshiyho\documents\visual studio 2017\Projects\boostTest\Debug\stl3_producer_consumer_block_queue.pdb (Partial PDB)
