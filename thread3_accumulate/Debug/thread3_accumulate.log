@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\eshiyho\documents\visual studio 2017\projects\boosttest\thread3_accumulate\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  c:\users\eshiyho\documents\visual studio 2017\projects\boosttest\thread3_accumulate\source.cpp(49): note: see reference to function template instantiation 'T parallel_accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,int>(Iterator,Iterator,T)' being compiled
+          with
+          [
+              T=int,
+              Iterator=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]
+  thread3_accumulate.vcxproj -> C:\Users\eshiyho\documents\visual studio 2017\Projects\boostTest\Debug\thread3_accumulate.exe
+  thread3_accumulate.vcxproj -> C:\Users\eshiyho\documents\visual studio 2017\Projects\boostTest\Debug\thread3_accumulate.pdb (Partial PDB)
